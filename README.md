@@ -4,36 +4,30 @@ Things that is needed to be done or is already finished
 🟡 WIP/Unfinished
 🔴  Not started/Need to do
 -----------
+
+-----------
 Stuff from OG Mod
-
+-----------
 TittleScreen intro event [ 🔴 ]
-
 FreakyMenu Song [ 🟢 ]
-
 MainMenu Stuff [ 🟡 ]
-
 Wall BG + Flashlight overlay [ 🟢 ]
-
 Evil Wall BG [ 🔴 ]
-
 Slaughter Me Street [ 🟢 ]
-
 Lurk Inside [ 🔴 ]
-
 Mishmash [ 🔴 ]
 
+-----------
 Stuff Exclusive to this port
+-----------
 Do a optional Rechart to all the songs [ 🟡 ]
-
 Add MishMash Athid's Remix [ 🔴 ]
-
 Add new events only on the Recharted [ 🔴 ]
-
 Discord RPC [ 🔴 ]
-
 Icon (executable icon) [ 🔴 ]
-
 Change Application Name [ 🔴 ]
+
+
 
 
 ![image](https://github.com/Ve3h/123-Slaughter-Me-Funkin-CNE-Port/assets/137530784/82aa1700-fcde-4db6-97ae-1dcf0702d427)
