@@ -18,8 +18,8 @@ SUBTRACT = 14;
 
 function create() {
 
-    var greeter = strumLines.members[3].characters[0];
-    var waiter = strumLines.members[4].characters[0];
+    var greeter = strumLines.members[2].characters[0];
+    var waiter = strumLines.members[3].characters[0];
     defaultCamZoom = 0.8;
     flashlight = new FlxSprite(FlxG.width, FlxG.height);
     flashlight.loadGraphic('images/stages/wall/flashlight.png');
@@ -31,4 +31,12 @@ function create() {
 
     greeter.x = -71;
     waiter.x = 1160;
+    
 }
+
+function beatHit() {
+        switch(strumLines.members[1].characters[0].getAnimName()) {
+            case "idle":
+                    boyfriend.playAnim("idle", true);
+        }
+    }
