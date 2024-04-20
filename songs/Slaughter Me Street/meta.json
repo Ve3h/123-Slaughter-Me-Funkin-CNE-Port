@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"HARD",
+		"RECHARTED"
+	],
+	"icon": "onetwothree",
+	"parsedColor": -8279041,
+	"coopAllowed": true,
+	"name": "Slaughter Me Street",
+	"color": "#81ABFF",
+	"customValues": {},
+	"stepsPerBeat": 4,
+	"displayName": "Slaughter Me Steet",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 90
+}

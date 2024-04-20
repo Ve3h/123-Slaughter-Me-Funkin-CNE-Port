@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage>
+	<gf/>
+	<sprite x="-302" y="-244" sprite="stages/wall/wall" type="none" name="wall"/>
+	<dad x="279" y="115"/>
+	<bf/>
+	<combo x="840.5" y="211"/>
+</stage>
