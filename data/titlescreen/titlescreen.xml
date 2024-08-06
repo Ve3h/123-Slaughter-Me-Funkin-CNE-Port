@@ -50,17 +50,17 @@
 		<text beat="12"/>
 
 		<text beat="13">
-			<line text="Friday" />
+			<line text="123" />
 		</text>
 
 		<text beat="14">
-			<line text="Friday" />
-			<line text="Night" />
+			<line text="123" />
+			<line text="Slaughter Me" />
 		</text>
 
 		<text beat="15">
-			<line text="Friday" />
-			<line text="Night" />
+			<line text="123" />
+			<line text="Slaughter Me" />
 			<line text="Funkin'" />
 		</text>
 	</intro>
